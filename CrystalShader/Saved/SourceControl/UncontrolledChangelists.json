@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/MY/CODE/UNREAL ENGINE/CrystalShader/Content/Level/TestLevel_.umap",
+				"Z:/MY/CODE/UNREAL ENGINE/CrystalShader/Content/Materials/MGlassMaterial.uasset",
+				"Z:/MY/CODE/UNREAL ENGINE/CrystalShader/Content/BluePrints/BP_RotatingActor.uasset",
+				"Z:/MY/CODE/GIT/CrystalShader/CrystalShader/Content/Level/TestLevel_.umap",
+				"Z:/MY/CODE/UNREAL ENGINE/CrystalShader/Content/TestLevel_.umap"
+			]
+		}
+	]
+}
